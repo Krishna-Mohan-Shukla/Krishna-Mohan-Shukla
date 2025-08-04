@@ -1,13 +1,21 @@
-
-
-<p align="center">
-  <img 
-    src="./assets/banner.png" 
-    alt="Krishna Mohan Shukla - 3D Banner" 
-    width="100%"
-    style="max-width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+<p align="center" style="margin: 40px 0;">
+  <img
+    src="./assets/banner.png"
+    alt="Krishna Mohan Shukla - 3D Banner"
+    style="
+      width: 100%;
+      max-width: 900px;
+      height: 200px;          /* Fixed height to resemble LinkedIn cover */
+      object-fit: cover;      /* Crop/scale nicely */
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+      border: 1px solid #ddd;
+      display: block;
+      margin: 0 auto;
+    "
   />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4d4d;">Krishna Mohan Shukla</span></h1>
@@ -78,6 +86,7 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
 
 
 
