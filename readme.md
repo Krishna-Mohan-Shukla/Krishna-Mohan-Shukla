@@ -53,7 +53,7 @@ I love contributing to open-source projects, solving complex problems, and conti
 |--------------|-------------|------|
 | **Task Manager** |MERN-Project Backend - Authentication & More A full-featured MERN stack backend that includes secure authentication, OTP verification, role-based access control, payments, file uploads, and more. | [GitHub Repo](https://github.com/Krishna-Mohan-Shukla/DSABuddy) |
 | **Portfolio Website** | My personal portfolio website showcasing projects, skills, and contact info. Built with React and TailwindCSS. | [Live Demo](https://github.com/Krishna-Mohan-Shukla/profile) |
-| **E-Commerce API** |Real-time location sharing app using Socket.IO, React, Node, and MongoDB. | [GitHub Repo](https://github.com/Krishna-Mohan-Shukla/Live-Location) |
+| **Real-Time Tracker** |Real-time location sharing app using Socket.IO, React, Node, and MongoDB. | [GitHub Repo](https://github.com/Krishna-Mohan-Shukla/Live-Location) |
 
 ---
 
@@ -61,7 +61,7 @@ I love contributing to open-source projects, solving complex problems, and conti
 
 I'm always open to discussing new projects or opportunities. Feel free to connect!
 
-- 📧 Email: krishna.mohan@example.com  
+- 📧 Email: krishnamohanshukl23@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/krishna-mohan-shukla](https://www.linkedin.com/in/krishna-mohan-shukla-76a075362/)  
 - 🐙 GitHub: [github.com/Krishna-Mohan-Shukla](https://github.com/Krishna-Mohan-Shukla) 
 
@@ -72,3 +72,4 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
