@@ -1,18 +1,25 @@
-<p className="flex justify-center my-12">
+<p align="center" style="margin: 50px 0;">
   <img
     src="./assets/banner.png"
     alt="Krishna Mohan Shukla - 3D Banner"
-    className="
-      w-1/3 max-w-[30px] max-h-[150px] 
-      rounded-lg 
-      shadow-[0_8px_24px_rgba(0,0,0,0.25)] 
-      object-contain 
-      border-2 border-[#0073b1] 
-      bg-[#f3f6f8] 
-      block
+    style="
+      width: 30%;
+      max-width: 30px;
+      height: auto;
+    border-radiu:20%;
+      max-height: 150px;
+      border-radius: 8px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+      object-fit: contain;
+      border: 2px solid #0073b1; /* LinkedIn blue border */
+      background-color: #f3f6f8; /* light subtle background */
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     "
   />
 </p>
+
 
 
 
