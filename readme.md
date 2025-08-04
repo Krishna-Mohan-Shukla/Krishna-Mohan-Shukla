@@ -6,9 +6,8 @@
       width: 30%;
       max-width: 30px;
       height: auto;
-    border-radiu:20%;
+      border-radius: 20%;
       max-height: 150px;
-      border-radius: 8px;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
       object-fit: contain;
       border: 2px solid #0073b1; /* LinkedIn blue border */
@@ -19,6 +18,7 @@
     "
   />
 </p>
+
 
 
 
@@ -92,6 +92,7 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
 
 
 
