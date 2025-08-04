@@ -5,7 +5,7 @@
     src="./assets/banner.png" 
     alt="Krishna Mohan Shukla - 3D Banner" 
     width="100%"
-    style="max-width: 900px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+    style="max-width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
   />
 </p>
 
@@ -78,6 +78,7 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
 
 
 
