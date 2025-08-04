@@ -1,8 +1,14 @@
 
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Krishna Mohan Shukla - 3D Banner" />
+  <img 
+    src="./assets/banner.png" 
+    alt="Krishna Mohan Shukla - 3D Banner" 
+    width="100%"       <!-- makes banner responsive full width -->
+    style="max-width: 900px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" 
+  />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4d4d;">Krishna Mohan Shukla</span></h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Open Source Enthusiast</h3>
@@ -72,5 +78,6 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
 
 
