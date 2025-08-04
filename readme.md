@@ -1,20 +1,15 @@
-<p align="center" style="margin: 50px 0;">
+<p className="flex justify-center my-12">
   <img
     src="./assets/banner.png"
     alt="Krishna Mohan Shukla - 3D Banner"
-    style="
-      width: 30%;
-      max-width: 30px;
-      height: auto;
-      max-height: 150px;
-      border-radius: 8px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
-      object-fit: contain;
-      border: 2px solid #0073b1; /* LinkedIn blue border */
-      background-color: #f3f6f8; /* light subtle background */
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
+    className="
+      w-1/3 max-w-[30px] max-h-[150px] 
+      rounded-lg 
+      shadow-[0_8px_24px_rgba(0,0,0,0.25)] 
+      object-contain 
+      border-2 border-[#0073b1] 
+      bg-[#f3f6f8] 
+      block
     "
   />
 </p>
@@ -90,6 +85,7 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
 
 
 
