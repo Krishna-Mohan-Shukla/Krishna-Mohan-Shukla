@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/76b9c6c12f231b5b3c48849428270c1c1ec0e2ff05c7e984d3ff2292478b9e88/68747470733a2f2f692e67697068792e636f6d2f6d656469612f79786c755337377634654d7a2f6769746875622d62616e6e65722d616e696d617465642e676966" alt="Krishna Mohan Shukla - Developer Banner" />
+  <img src="./assets/banner.png" alt="Krishna Mohan Shukla - 3D Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#ff4d4d;">Krishna Mohan Shukla</span></h1>
@@ -72,4 +72,5 @@ I'm always open to discussing new projects or opportunities. Feel free to connec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Mohan-Shukla&show_icons=true&theme=radical" alt="Krishna Mohan Shukla's GitHub Stats" />
 </p>
+
 
